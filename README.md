@@ -5,6 +5,7 @@
 ---
 
 ## Dataset Description
+
 - Restaurant name
 - Restaurant type (listed_in(type))
 - Rating (rate)
@@ -15,6 +16,7 @@
 ---
 
 ## Business Questions Explored
+
 - Which type of restaurants dominate the market?
 - Do restaurants offering online orders receive better ratings?
 - Is there a relationship between restaurant cost and rating?
@@ -25,15 +27,17 @@
 ---
 
 ## Key Insights
-- 1. Dining restaurants represent the largest segment.
-- 2. Restaurants offering online ordering tend to have slightly higher median ratings.
-- 3. Most restaurants fall within the ₹300–₹500 cost range for two people.
-- 4. Votes show a moderate positive correlation with ratings.
-- 5. Higher pricing does not always guarantee better ratings.
-- 6. Certain restaurant types are more likely to support offline orders.
+
+1. Dining restaurants represent the largest segment.
+2. Restaurants offering online ordering tend to have slightly higher median ratings.
+3. Most restaurants fall within the ₹300–₹500 cost range for two people.
+4. Votes show a moderate positive correlation with ratings.
+5. Higher pricing does not always guarantee better ratings.
+6. Certain restaurant types are more likely to support offline orders.
 
 ---
 
 ## Conclusion
+
 This project demonstrates practical application of data cleaning, visualization, feature engineering, and business insight extraction using Python.
 It showcases foundational data analysis skills required in real-world data science and machine learning workflows.
